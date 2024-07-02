@@ -1,6 +1,4 @@
-# My Neovim
-
-## Setup
+# My Neovim setup
 
 **Important**: This is my latest config with lazy.nvim. It is similar, but not the same as my original packer setup.
 
